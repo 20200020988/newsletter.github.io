@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub)
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://20200020988.github.io/newsletter.github.io/)
+- Solution URL: [(https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub)]
+- Live Site URL: [(https://20200020988.github.io/newsletter.github.io/)]
 
 ## My process
 
